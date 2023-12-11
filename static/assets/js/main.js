@@ -114,7 +114,7 @@
 					hideOnClick: true,
 					hideOnSwipe: true,
 					resetScroll: true,
-					resetForms: false,
+					resetForms: true,
 					side: 'left',
 					target: $body,
 					visibleClass: 'header-visible'
