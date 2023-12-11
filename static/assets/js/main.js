@@ -113,8 +113,8 @@
 					delay: 500,
 					hideOnClick: true,
 					hideOnSwipe: true,
-					resetScroll: false,
-					resetForms: true,
+					resetScroll: true,
+					resetForms: false,
 					side: 'left',
 					target: $body,
 					visibleClass: 'header-visible'
