@@ -111,8 +111,8 @@
 			$('#header')
 				.panel({
 					delay: 500,
-					hideOnClick: false,
-					hideOnSwipe: true,
+					hideOnClick: true,
+					hideOnSwipe: false,
 					resetScroll: true,
 					resetForms: true,
 					side: 'left',
