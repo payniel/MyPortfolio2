@@ -112,8 +112,8 @@
 				.panel({
 					delay: 500,
 					hideOnClick: true,
-					hideOnSwipe: false,
-					resetScroll: true,
+					hideOnSwipe: true,
+					resetScroll: false,
 					resetForms: true,
 					side: 'left',
 					target: $body,
