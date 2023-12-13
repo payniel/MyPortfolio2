@@ -1942,7 +1942,7 @@ input, select, textarea {
 	input[type="reset"],
 	button,
 	.button {
-		position: relative;
+		position: vertical;
 		display: inline-block;
 		border-radius: 0.35em;
 		color: #fff !important;
