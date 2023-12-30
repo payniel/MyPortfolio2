@@ -87,6 +87,7 @@ input, select, textarea {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
+		font: bold;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: black;
@@ -107,6 +108,7 @@ input, select, textarea {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
+		font: bold;
 		line-height: 1.75em;
 		color: black;
 	}
