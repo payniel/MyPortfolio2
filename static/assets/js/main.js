@@ -16,7 +16,6 @@
 			normal:    [ '961px',  '1620px' ],
 			narrow:    [ '961px',  '1320px' ],
 			narrower:  [ '737px',  '960px'  ],
-			mobile:    [ null,     null  ]
 		});
 
 	// Play initial animations on page load.
